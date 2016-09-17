@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "167248041102",
+    "firebase_url": "https://duofire-7c217.firebaseio.com",
+    "project_id": "duofire-7c217",
+    "storage_bucket": "duofire-7c217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167248041102:android:8450f5b45066680a",
+        "android_client_info": {
+          "package_name": "com.horses.duofire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167248041102-u4et948nm8uqo62j0r6jvc7gl0ei5e0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Lz0puqsUTXfXvcK4ACAwiML7V-OOkO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
